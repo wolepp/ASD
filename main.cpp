@@ -1,5 +1,10 @@
 #include <iostream>
 
+void ddd()
+{
+    
+}
+
 int main() {
     std::cout << "Hello, World!" << std::endl;
 
