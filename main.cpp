@@ -1,8 +1,19 @@
 #include <iostream>
 
+int asdf()
+{
+    return 9;
+}
+
 void ddd()
 {
     
+}
+
+
+int function_name()
+{
+    return 3;
 }
 
 int main() {
